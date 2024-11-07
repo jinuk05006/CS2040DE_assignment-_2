@@ -2,7 +2,7 @@
 
 ## Code Repository
 All Java implementations can be found in this GitHub repository:
-[https://github.com/yourusername/CS2040DE_Assignment2](https://github.com/yourusername/CS2040DE_Assignment2)
+[https://github.com/jinuk05006/CS2040DE_assignment-_2](https://github.com/jinuk05006/CS2040DE_assignment-_2)
 
 ## Part 2.a Custom Heap
 
@@ -245,7 +245,7 @@ Explanation: "aab" appears three times
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CS2040DE_Assignment2.git
+git clone https://github.com/jinuk05006/CS2040DE_assignment-_2.git
 ```
 
 2. Compile:
@@ -262,5 +262,3 @@ java Main
 ```bash
 java TestCases
 ```
-
-Note: Replace `yourusername` in the GitHub URL with your actual GitHub username once you've created the repository.
